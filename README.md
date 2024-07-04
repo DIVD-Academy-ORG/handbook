@@ -1,4 +1,4 @@
-# Handbook
+# DIVD Academy handbook
 
 ## Meetings
 In an Agile work environment, several types of meetings are designed to facilitate communication, collaboration, and continuous improvement. The main meetings include:
