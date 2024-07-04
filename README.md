@@ -34,3 +34,19 @@ In an Agile work environment, several types of meetings are designed to facilita
    - **Participants:** The development team and Scrum Master, with the Product Owner attending optionally.
 
 These meetings help ensure the team stays aligned, addresses issues promptly, and continuously improves its processes and product.
+
+
+
+## Project
+At DIVD Academy, we proudly collaborate with a diverse array of esteemed partners to drive innovation and excellence across multiple projects. Our mission is to create a collaborative environment where expertise and creativity converge to tackle the challenges of today and tomorrow. These projects are available to our students, trainees, and volunteers.
+
+### [Project website DIVD.academy](#website-academy)
+Migrate the existing website from Google Sites to GitHub Pages, ensuring all content and features are transferred, optimized, and fully functional on the new platform. You can find the [project brief here](https://github.com/DIVD-Academy-ORG/website/issues/1) and this is the [projectboard](https://github.com/orgs/DIVD-Academy-ORG/projects/9)
+
+### [Project Digitaal Veilig Den Haag](#project-digitaal-veilig-den-haag)
+In a city like The Hague, safeguarding crucial digital data is a top priority, with both the municipality and various organizations, including the newly established DIVD Academy, playing essential roles. Co-founder Astrid Oosenbrug [highlights](https://www.linkedin.com/pulse/maak-kennis-met-astrid-oosenburg-digitaal-veilig-den-haag/?trackingId=%2F8GQiyEOIElTEqsGhkqxdQ%3D%3D) the Academy's mission to address inequalities in the IT sector by offering opportunities such as free hacking courses and internships to underrepresented youth, thus enhancing both their prospects and the city's digital security. 
+
+### [Project LearningLion](#project-learning-lion)
+Government employees often use external AI tools like ChatGPT for tasks such as writing emails and summarizing documents, but these tools often don't meet stringent data privacy and regulatory standards. SSC-ICT aims to develop a locally controlled Dutch language model using Retrieval-Augmented Generation (RAG) technology to improve operational efficiency, knowledge management, and transparency while ensuring compliance with privacy and data protection laws. The Academy contributes to this [open-source project](https://github.com/SSC-ICT-Innovatie/LearningLion) by providing research expertise, developing the language model, and ensuring the integration of privacy and security standards.
+
+
