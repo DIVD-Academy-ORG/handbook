@@ -27,7 +27,7 @@ In an Agile work environment, several types of meetings are designed to facilita
    - **Duration:** 1-2 hours for a two-week sprint
    - **Participants:** The team, Scrum Master, Product Owner, and stakeholders.
 
-### [Sprint Retrospective](#sprint-retrospective)**
+### [Sprint Retrospective](#sprint-retrospective)
    - **Purpose:** To reflect on the past sprint and identify ways to improve processes and teamwork for future sprints.
    - **Frequency:** At the end of each sprint
    - **Duration:** 1-2 hours for a two-week sprint
@@ -48,5 +48,13 @@ In a city like The Hague, safeguarding crucial digital data is a top priority, w
 
 ### [Project LearningLion](#project-learning-lion)
 Government employees often use external AI tools like ChatGPT for tasks such as writing emails and summarizing documents, but these tools often don't meet stringent data privacy and regulatory standards. SSC-ICT aims to develop a locally controlled Dutch language model using Retrieval-Augmented Generation (RAG) technology to improve operational efficiency, knowledge management, and transparency while ensuring compliance with privacy and data protection laws. The Academy contributes to this [open-source project](https://github.com/SSC-ICT-Innovatie/LearningLion) by providing research expertise, developing the language model, and ensuring the integration of privacy and security standards.
+
+### [Project Virtual DIVD Environment](#project-virtual-divd)
+A [proposal](https://docs.google.com/document/d/1mV-HLIWmEqj8X2nohaT5iStxRP-4tSsUjD-NCeJtOC0/edit?usp=sharing) has been submitted exploring the use of gamification to increase engagement with the organization. This proposal outlines two separate ideas.
+
+The first idea focuses on increasing participation in activities like providing feedback or generally boosting involvement in organizational initiatives.  This could be achieved through tactics like awarding points or badges for completing specific actions.
+
+The second idea is more ambitious and proposes developing a gamified system that could potentially provide internship opportunities for students. This could involve creating a complex simulation or challenge that students could work on as part of their internship, allowing them to gain practical experience while contributing to the organization.
+
 
 
