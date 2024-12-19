@@ -1,5 +1,33 @@
 # DIVD Academy handbook
 
+
+## Traineeships and [🇳🇱 BPV (Stage)]
+During your professional training period, you will be assigned a trainee supervisor who will work with you to ensure that all matters between school and your traineeship through DIVD Academy run smoothly.
+
+The initial meeting (within four weeks after the start of the trainee period)
+During this meeting, the following items will be discussed:
+- getting acquainted/renewing contact, exchanging contact details;
+- the student's first impression;
+- the contents of the workplace learning guide;
+- the mentoring process;
+- the competency test;
+- reporting incidents and/or accidents during the workplace learning period;
+- discussing the purpose and login of the portal with student and practical supervisor;
+- discussing logbooks (content and format);
+
+The 2nd contact moment (the interim assessment) will take place approximately halfway through the workplace learning period.
+Discussion topics may include:
+- reviewing the assessment form for the orientation assignments;
+- discussing the logbooks;
+- discussing and completing the assessment form 'General employee skills' for the second part of the practical training;
+- establishing focus points and learning objectives for the 2nd half of the workplace learning period;
+- scheduling the next visit.
+
+The final meeting preferably takes place again at the training company location. Discussion topics include:
+- reviewing the logbooks;
+- discussing progress on learning objectives following the interim assessment;
+- discussing and completing the employee skills assessment form;
+
 ## Meetings
 In an Agile work environment, several types of meetings are designed to facilitate communication, collaboration, and continuous improvement. The main meetings include:
 
